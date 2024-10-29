@@ -59,13 +59,10 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwndnjs1104)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h2 align="center">💡 My Most Used Languages 💡</h2>
 <p align="center">
   <a href="https://github.com/jwndnjs1104">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwndnjs1104&layout=compact&show_icons=true&hide_title=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwndnjs1104&show_icons=true&hide_title=true&theme=nord" />
   </a>
 </p>
 
