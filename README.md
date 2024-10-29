@@ -5,7 +5,7 @@
 
 
 <h2 align="center">🖥️Frontend</h2>
-<div style="font-size:1.5em; font-weight:bold; margin-top:1em;" align="center">
+<div style="font-size:2em; font-weight:bold; margin-top:1em;" align="center">
     🖥️Frontend
 </div>
 <p align="center">
