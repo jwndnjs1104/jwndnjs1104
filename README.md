@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">&nbsp
-</p>
+</p><br/>
 
 
 <h2 align="center">🗄️Backend</h2>
@@ -29,14 +29,14 @@
   <img src="https://img.shields.io/badge/JWT-6DB33F?style=for-the-badge&logo=jsonwebtokens&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/eclipse_mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">&nbsp
-</p>
+</p><br/>
 
 
 <h2 align="center">🗃️Database</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
-</p>
+</p><br/>
 
 
 <h2 align="center">👥Etc</h2>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp
-</p>
+</p><br/>
 
 
 <h2 align="center">🛠️Tools</h2>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp
-</p>
+</p><br/>
 
 
 <p align="center">
