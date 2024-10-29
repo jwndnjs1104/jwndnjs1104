@@ -3,6 +3,7 @@
 
 <h1 align="center">📚Stacks</h1>
 
+
 <h2 align="center">🖥️Frontend</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">&nbsp
 </p>
+
 
 <h2 align="center">🗄️Backend</h2>
 <p align="center">
@@ -29,11 +31,13 @@
   <img src="https://img.shields.io/badge/eclipse_mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">&nbsp
 </p>
 
+
 <h2 align="center">🗃️Database</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
 </p>
+
 
 <h2 align="center">👥Etc</h2>
 <p align="center">
@@ -45,6 +49,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp
 </p>
 
+
 <h2 align="center">🛠️Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">&nbsp
@@ -53,12 +58,15 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp
 </p>
 
+
 <h2 align="center">💡 My Most Used Languages 💡</h2>
 <p align="center">
   <a href="https://github.com/jwndnjs1104">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwndnjs1104&layout=compact&show_icons=true&hide_title=true&theme=nord" />
   </a>
 </p>
+
+
 <h2 align="center">💡 My Git Stats 💡</h2>
 <p align="center">
   <a href="https://github.com/jwndnjs1104">
