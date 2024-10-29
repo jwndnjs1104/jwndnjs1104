@@ -6,7 +6,7 @@
 
 <h2 align="center">🖥️Frontend</h2>
 
-<div style="font-size: 150%; font-weight: bold; margin-top: 1em;" align="center">🖥️Frontend</div>
+<span style="font-size: 150%; font-weight: bold; margin-top: 1em;" align="center">🖥️Frontend</span>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
