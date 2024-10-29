@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🗄️Backend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/${아이콘}-${색상}?style=flat&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
 </p>
 
