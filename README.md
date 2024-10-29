@@ -62,6 +62,6 @@
 <h2 align="center">💡 My Git Stats 💡</h2>
 <p align="center">
   <a href="https://github.com/jwndnjs1104">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwndnjs1104&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwndnjs1104&hide=total_prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
