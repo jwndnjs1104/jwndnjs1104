@@ -61,15 +61,12 @@
 
 <p align="center">
   <a href="https://github.com/jwndnjs1104">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwndnjs1104&show_icons=true&theme=nord&langs_count=8&hide_title=false&layout=compact" />
-  </a>
-  &nbsp&nbsp
-  <a href="https://github.com/jwndnjs1104">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwndnjs1104&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=nord&hide_title=false" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwndnjs1104&show_icons=true&theme=nord&langs_count=8&hide_title=false" />
   </a>
 </p>
 
-
 <p align="center">
-  
+  <a href="https://github.com/jwndnjs1104">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwndnjs1104&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=nord&hide_title=false" />
+  </a>
 </p>
