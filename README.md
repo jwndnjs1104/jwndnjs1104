@@ -16,19 +16,17 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's%20GitHub&fontSize=50&animation=twinkling)
 
 ## 📚Stacks
-
-
 ### 🖥️Frontend
-x
+<p align="center"></p>
 
 ### 🗄️Backend
-
+<p align="center"></p>
 
 ### 🗃️Database
-
+<p align="center"></p>
 
 ### 🤖AI/ML
-
+<p align="center"></p>
 
 ### 🛠️Tools
-
+<p align="center"></p>
