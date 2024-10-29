@@ -59,7 +59,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwndnjs1104)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2 align="center">💡 My Most Used Languages 💡</h2>
@@ -73,6 +73,6 @@
 <h2 align="center">💡 My Git Stats 💡</h2>
 <p align="center">
   <a href="https://github.com/jwndnjs1104">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwndnjs1104&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwndnjs1104&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
