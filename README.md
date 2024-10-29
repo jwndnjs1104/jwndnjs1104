@@ -15,29 +15,29 @@ Here are some ideas to get you started:
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's%20GitHub&fontSize=50&animation=twinkling)
 
-## 📚Stacks
+# 📚Stacks
 
 <h3 align="center">🖥️Frontend</h3>
 <p align="center">
   
 </p>
 
-### 🗄️Backend
+<h3 align="center">🗄️Backend</h3>
 <p align="center">
   
 </p>
 
-### 🗃️Database
+<h3 align="center">🗃️Database</h3>
 <p align="center">
   
 </p>
 
-### 🤖AI/ML
+<h3 align="center">🤖AI/ML</h3>
 <p align="center">
   
 </p>
 
-### 🛠️Tools
+<h3 align="center">🛠️Tools</h3>
 <p align="center">
   
 </p>
