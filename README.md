@@ -59,17 +59,15 @@
 </p>
 
 
-<h2 align="center">💡 My Most Used Languages 💡</h2>
 <p align="center">
   <a href="https://github.com/jwndnjs1104">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwndnjs1104&show_icons=true&hide_title=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwndnjs1104&show_icons=true&theme=nord" />
   </a>
 </p>
 
 
-<h2 align="center">💡 My Git Stats 💡</h2>
 <p align="center">
   <a href="https://github.com/jwndnjs1104">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwndnjs1104&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwndnjs1104&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
