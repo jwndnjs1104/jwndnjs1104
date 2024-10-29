@@ -12,6 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-//Header
+<!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's%20GitHub&fontSize=50&animation=twinkling)
 
+##🛠️Stacks
+
+###Backend
+
+###Frontend
+
+###Database
+
+###Tools
+
+###
