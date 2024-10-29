@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's%20GitHub&fontSize=50&animation=twinkling)
 
 ## 📚Stacks
-### 🖥️Frontend
-{: .text-center}
 
-<h3 style="text-align: center;">🖥️Frontend</h3>
+<h3 align="center">🖥️Frontend</h3>
 <p align="center">
   
 </p>
