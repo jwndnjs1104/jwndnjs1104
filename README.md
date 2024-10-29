@@ -1,24 +1,11 @@
-<!--
-**jwndnjs1104/jwndnjs1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's%20GitHub&fontSize=50&animation=twinkling)
 
 <h1 align="center">📚Stacks</h3>
 
-<h2 align="center">🖥️Frontend</h3>
+
 <p align="center">
+  <h2 align="center">🖥️Frontend</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">&nbsp
