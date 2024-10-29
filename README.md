@@ -4,7 +4,10 @@
 <h1 align="center">📚Stacks</h1>
 
 
-<h2 align="center" style="border-bottom: none;">🖥️Frontend</h2>
+<h2 align="center">🖥️Frontend</h2>
+<div style="font-size:1.5em; font-weight:bold; margin-top:1em;" align="center">
+    🖥️Frontend
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
