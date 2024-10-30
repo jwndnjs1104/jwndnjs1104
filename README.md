@@ -2,7 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50)
 
 
-[![Git Blog](https://img.shields.io/badge/My_Git_Blog-green?style=for-the-badge)](https://jwndnjs1104.github.io){: target="_blank"}
+<a href="https://jwndnjs1104.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/My_Git_Blog-green?style=for-the-badge"/>
+</a>
 
 <h1 align="center">📚Stacks</h1>
 
