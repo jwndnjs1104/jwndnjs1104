@@ -3,7 +3,7 @@
 
 <h1 align="center">📚Stacks</h1>
 
-![Git Blog](https://img.shields.io/badge/Git_Blog-green)
+[![Git Blog](https://img.shields.io/badge/Git_Blog-green)](https://jwndnjs1104.github.io)
 
 
 <h2 align="center">🖥️Frontend</h2>
