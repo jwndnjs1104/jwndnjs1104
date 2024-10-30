@@ -1,10 +1,10 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50)
 
-<h1 align="center">📚Stacks</h1>
 
 [![Git Blog](https://img.shields.io/badge/Git_Blog-green)](https://jwndnjs1104.github.io)
 
+<h1 align="center">📚Stacks</h1>
 
 <h2 align="center">🖥️Frontend</h2>
 <p align="center">
