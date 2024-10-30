@@ -2,15 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50)
 
 <p align="center">
-  <a href="https://jwndnjs1104.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/My_Git_Blog-green?style=for-the-badge"/>
-  </a>&nbsp
-  <a href="mailto:jwndnjs1104@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp
-  <a href="mailto:wndnjs1104@naver.com" target="_blank">
-    <img src="https://img.shields.io/badge/Naver-green?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>&nbsp
+  <a href="https://jwndnjs1104.github.io" target="_blank"><img src="https://img.shields.io/badge/My_Git_Blog-green?style=for-the-badge"/></a>&nbsp
+  <a href="mailto:jwndnjs1104@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
+  <a href="mailto:wndnjs1104@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-green?style=for-the-badge&logo=naver&logoColor=white"/></a>&nbsp
 </p>
 
 <h1 align="center">📚Stacks</h1>
