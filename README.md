@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://jwndnjs1104.github.io" target="_blank">
     <img src="https://img.shields.io/badge/My_Git_Blog-green?style=for-the-badge"/>
-  </a>
+  </a> &nbsp
   <a href="mailto:jwndnjs1104@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
